@@ -1,6 +1,6 @@
 # e-meca
 Typing speed practice plugin for Office Word.
 
-Mainly oriented to improving typing speed for typewriting for public examination. It allows you to set a text model and a time to test your speed. It has countdown, error detection, end test alarm, and detailed scores with characters per minute.
+Mainly oriented to improving typing speed for public examination. It allows user to set a text model and a time to test the speed. It has start countdown, error detection, end alarm, and detailed scores with; characters per minute, keys pressed, characters, characters deleted and errors.
 
-The text to be written has to be printed as is not seen in the screen. You can open another window with the model but it will not be as similar to the real test.
+The text to be written should be printed to simulate the real test. Or the user can open another window with the model.
